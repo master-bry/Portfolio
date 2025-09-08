@@ -24,7 +24,7 @@ import bio from "../../Assets/Projects/bio.png";
               title="GIT BIO"
               description="Personal Github portfolio"
               ghLink="https://github.com/master-bry/master-bry.github.io"
-              demoLink="https://master-bry.gitbio.vercel.app/"
+              demoLink="https://master-bry2.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
