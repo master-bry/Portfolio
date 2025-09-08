@@ -44,8 +44,8 @@ import touros from "../../Assets/Projects/touros.png";
               isBlog={false}
               title="TOUR OS"
               description="TOUR OS  project for different tour activities operations like creating bookings of different tour packages, different payment methods, and many more."
-              ghLink=""
-              demoLink=""
+              ghLink="#"
+              demoLink="#"
             />
           </Col>
 
