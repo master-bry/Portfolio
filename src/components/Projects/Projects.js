@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import mb from "../../Assets/Projects/mb.png";
+import tourExplorer from "../../Assets/Projects/TourExplorer.png";
 import bio from "../../Assets/Projects/bio.png";
 import touros from "../../Assets/Projects/touros.png";
 
@@ -44,6 +45,16 @@ import touros from "../../Assets/Projects/touros.png";
               isBlog={false}
               title="TOUR OS"
               description="TOUR OS  project for different tour activities operations like creating bookings of different tour packages, different payment methods, and many more."
+              ghLink="#"
+              demoLink="#"
+            />
+          </Col>
+           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={tourExplorer}
+              isBlog={false}
+              title="TourExplorer"
+              description="A  project for different tour activities operations like creating bookings of different tour packages, different payment methods, and many more."
               ghLink="#"
               demoLink="#"
             />
